@@ -1,5 +1,3 @@
-package DS.Learnbay.week1;
-
 /**
  * https://leetcode.com/problems/unique-paths/
  */
